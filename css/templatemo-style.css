@@ -402,7 +402,15 @@ https://templatemo.com/tm-516-known
 
   .feature-thumb {
     border: 1px solid #f0f0f0;
+    height: 400px;
     padding: 5em 3em;
+    transition: transform .2s;
+    
+  }
+  .feature-thumb:hover {
+    transform: scale(1.1);
+    background-color: #fd6a02;
+
   }
 
   .feature-thumb span {
