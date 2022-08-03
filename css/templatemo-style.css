@@ -409,12 +409,12 @@ https://templatemo.com/tm-516-known
   }
   .feature-thumb:hover {
     transform: scale(1.1);
-    background-color: #fd6a02;
+    background-color: whitesmoke;
 
   }
 
   .feature-thumb span {
-    background: #fd6a02;
+    background: #e9945850;
     border-radius: 50px;
     color: #ffffff;
     font-size: 25px;
